@@ -1,10 +1,10 @@
-// <octm/types.hpp>
+// <occm/types.hpp>
 // 10/15/2022 - File Creation
 // Copyright(c) 2022-present, Oscar A. Carrera.
 // Distributed under the MIT License (http://opensource.org/licenses/MIT)
 
-#ifndef OCTM_TYPES_H
-#define OCTM_TYPES_H
+#ifndef OCCM_TYPES_H
+#define OCCM_TYPES_H
 
 #include <memory>
 #include <stdint.h>
